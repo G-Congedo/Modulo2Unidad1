@@ -20,7 +20,7 @@ p{
 .listas{
     background-color: aquamarine;
     border: violet solid 10px;
-    width: 270px;
+    width: 290px;
     box-shadow: 3px 3px 10px rgb(0, 0, 0);
     box-sizing: border-box;
     border-radius: 80px;
@@ -33,7 +33,7 @@ p{
 
 .perfil{
     background-color: wheat;
-    width: 270px;
+    width: 290px;
     height: 300px;
     box-shadow: 3px 3px 10px rgb(0, 0, 0);
     column-count: 2;
