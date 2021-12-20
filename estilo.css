@@ -1,0 +1,53 @@
+/* font-family: 'Signika Negative', sans-serif;
+font-family: 'Titillium Web', sans-serif; */
+
+body{
+    background: rgb(120,234,255);
+    background: linear-gradient(90deg, rgba(120,234,255,1) 0%, rgba(166,78,223,1) 55%, rgba(0,0,0,1) 100%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: 'Titillium Web', sans-serif;
+    }
+h2{
+    text-decoration: underline;
+    font-family: 'Signika Negative', sans-serif;
+    }
+p{
+        margin-left: 25px;
+    }
+
+.listas{
+    background-color: aquamarine;
+    border: violet solid 10px;
+    width: 270px;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0);
+    box-sizing: border-box;
+    border-radius: 80px;
+    }
+
+.enlace:hover{
+    background-color: crimson;
+    color: white;
+}
+
+.perfil{
+    background-color: wheat;
+    width: 270px;
+    height: 300px;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0);
+    column-count: 2;
+    box-sizing: border-box;
+    margin-left: 0px;
+    border-radius: 0px 10px 10px 0px;
+    padding-left: 5px;
+    border-left: solid red 3px;
+
+}
+img{
+    box-shadow: 3px 3px 10px rgb(0, 0, 0);
+}
+
+.piepagina{
+    
+}
